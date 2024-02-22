@@ -1,4 +1,4 @@
-This is a simple example console application implemented in C#. This example assumes that you have access to the incoming email text and that you have a list of keywords or patterns that might indicate classified information.
+This is a simple console application implemented in C#. This example assumes that we have access to the incoming email text and that you have a list of keywords or patterns that might indicate classified information.
 
 Brief Explanation for this Source Code:
 
